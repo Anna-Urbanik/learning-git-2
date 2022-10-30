@@ -1,0 +1,14 @@
+
+
+
+body {
+    display: flex;
+}
+div {
+    font-family: 'Amiri', serif;
+    margin: auto;
+}
+
+.subtitle {
+    font-style: italic;
+        }
