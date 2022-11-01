@@ -1,12 +1,13 @@
 
-
-
 body {
     display: flex;
+    background-color:indigo;
 }
+
 div {
     font-family: 'Amiri', serif;
     margin: auto;
+   
 }
 
 .subtitle {
