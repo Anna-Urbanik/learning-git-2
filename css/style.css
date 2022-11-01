@@ -2,6 +2,7 @@
 body {
     display: flex;
     background-color:indigo;
+    color:aliceblue;
 }
 
 div {
@@ -13,3 +14,6 @@ div {
 .subtitle {
     font-style: italic;
         }
+ p {
+    font-size:large;
+ }
